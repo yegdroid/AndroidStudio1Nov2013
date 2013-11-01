@@ -1,27 +1,44 @@
-# AndroidStudio1Nov2013
+# Android Studio
 
 !SLIDE
 
-# A Title Slide
-
-## me@example.com
+# What is Android Studio?
 
 !SLIDE
 
-# Some sample code
+# What is Android Studio
 
-``` ruby
-def method
-  puts "Hello, World"
-end
-```
+### the new hotness Android IDE from Google
+### based off IntelliJ community edition 
 
-!NOTES
-
- * a note
 
 !SLIDE
 
-# With a Background Image
+# Why do I care?
 
-}}} images/test.png
+### built for Android Development
+### better integration with UI development
+### IntelliJ is more stable than eclipse
+
+!SLIDE
+# Pros
+### Gradle based built support
+### WYSIWYG UI Developement (that actually works)
+### SDK installed with Android Studio
+
+!SLIDE
+
+#What is Gradle?
+
+### Automation Tool 
+### Groovy as a DSL
+### Allows for rich customasation of build scripts
+
+!SLIDE
+#Other benefits to Our team
+
+### Automated Builds
+### Automated Tests
+### Everyone can use the same tools for different jobs (UI/UX, QA, PM)
+
+#Demo Time
