@@ -41,4 +41,12 @@
 ### Automated Tests
 ### Everyone can use the same tools for different jobs (UI/UX, QA, PM)
 
+
+!SLIDE
+# Where to get it from?
+<br>
+### Developer.Android.com
+<a href=http://developer.android.com/sdk/installing/studio.html>http://developer.android.com/sdk/installing/studio.html</a>
+
+!SLIDE
 #Demo Time
